@@ -1,0 +1,27 @@
+.text-break{
+    word-wrap: break-word;
+    line-height: 15px;
+    border: 1px;
+    border-style: groove;
+    text-align: left;
+    margin-top: 3px;
+    width: 100%;
+    height: 6dvw;
+    object-fit: auto; 
+    margin-bottom: 1px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 8px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 75%;
+
+}
+.Container{
+    display: inline-flex;
+
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #fff7f7;
+}
